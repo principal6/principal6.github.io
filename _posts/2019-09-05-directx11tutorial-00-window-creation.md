@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "DirectX 11 Tutorial #00 Window Creation"
 ---
 
 # Welcome
